@@ -31,15 +31,10 @@ export default {
 
   // graffiti
   spray_model: { url: 'paintingBrush.glb' },
-  //spray_model: { url: 'spray.glb' },
-  //spray_tex: { url: 'spray.basis', options: { encoding: THREE.sRGBEncoding, flipY: false} },
 
   // vertigo
   animationRoom_model: { url: 'animation_room.glb' },
   animationRoom_panel_tex: { url: 'animationRoom_panel_tex.png', options: { encoding: THREE.sRGBEncoding, flipY: false} },
-  //vertigo_door_lm_tex: { url: 'vertigo_door_lm.jpg', options: { encoding: THREE.sRGBEncoding, flipY: false} },
-  //vertigo_lm_tex: { url: 'vertigo_lm.basis', options: { encoding: THREE.sRGBEncoding, flipY: false} },
-  //checkboard_tex: { url: 'checkboard.basis', options: { wrapT: THREE.RepeatWrapping, wrapS: THREE.RepeatWrapping, repeat: [4, 4] } },
 
   // sound
   sound_model: { url: 'sound.glb' },
@@ -50,9 +45,7 @@ export default {
 
   // photogrammetry object
   pg_floor_tex: { url: 'travertine2.basis', options: { encoding: THREE.sRGBEncoding, flipY: false, wrapT: THREE.RepeatWrapping, wrapS: THREE.RepeatWrapping} },
-  //pg_floor_lm_tex: { url: 'pg_floor_lm.jpg', options: { encoding: THREE.sRGBEncoding, flipY: false} },
   pg_door_lm_tex: { url: 'pg_door_lm.jpg', options: { encoding: THREE.sRGBEncoding, flipY: false} },
-  //pg_object_tex: { url: 'angel.basis', options: { encoding: THREE.sRGBEncoding, flipY: false} },
   pg_object_model: { url: 'buddha.glb' }, // TODO: try draco version, angel.min.gl
   pg_bg_tex: { url: 'pg_bg.jpg', options: { encoding: THREE.sRGBEncoding, flipY: false} },
   pg_flare_tex: { url: 'flare.jpg', options: { encoding: THREE.sRGBEncoding, flipY: false} },
