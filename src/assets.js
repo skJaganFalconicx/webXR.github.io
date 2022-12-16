@@ -36,13 +36,6 @@ export default {
   animationRoom_model: { url: 'animation_room.glb' },
   animationRoom_panel_tex: { url: 'animationRoom_panel_tex.png', options: { encoding: THREE.sRGBEncoding, flipY: false} },
 
-  // sound
-  sound_model: { url: 'sound.glb' },
-  sound_door_model: { url: 'sound_door.glb' },
-  sound_shadow_tex: { url: 'sound_shadow.png' },
-  sound_door_lm_tex: { url: 'sound_door_lm.jpg', options: { wrapT: THREE.RepeatWrapping, wrapS: THREE.RepeatWrapping} },
-  grid_tex: { url: 'grid.png', options: { wrapT: THREE.RepeatWrapping, wrapS: THREE.RepeatWrapping, repeat: [20, 20] } },
-
   // photogrammetry object
   pg_floor_tex: { url: 'travertine2.basis', options: { encoding: THREE.sRGBEncoding, flipY: false, wrapT: THREE.RepeatWrapping, wrapS: THREE.RepeatWrapping} },
   pg_door_lm_tex: { url: 'pg_door_lm.jpg', options: { encoding: THREE.sRGBEncoding, flipY: false} },
