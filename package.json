@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MozillaReality/hello-webxr.git"
+    "url": "git+https://github.com/skJaganFalconicx/webXR.github.io.git"
   },
   "keywords": [
     "webxr",
@@ -26,9 +26,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MozillaReality/hello-webxr/issues"
+    "url": "https://github.com/skJaganFalconicx/webXR.github.io.git/issues"
   },
-  "homepage": "https://github.com/MozillaReality/hello-webxr#readme",
+  "homepage": "https://github.com/skJaganFalconicx/webXR.github.io.git#readme",
   "dependencies": {
     "ecsy": "0.2.6",
     "three": "^0.112.0",
